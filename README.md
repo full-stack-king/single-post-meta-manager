@@ -1,4 +1,4 @@
-## single-post-meta-manager
+# single post meta manager
 * Contributors: [ rajakannan](http://rajakannan.com/)
 * Tags: posts
 * Requires at least: 3.9.0
